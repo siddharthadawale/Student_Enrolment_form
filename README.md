@@ -1,6 +1,7 @@
 #JSON Power DB
 
 #INTRODUCTION OF JSON POWER DB
+
 JSON Power DB (JPDB) is a NoSQL database system that stores and manages data in JSON format. It is designed to provide high performance, scalability, and flexibility for modern applications.
 
 One of the unique features of JPDB is its ability to work seamlessly with both structured and unstructured data. This makes it a good fit for a wide range of applications, including IoT, social media, e-commerce, and more.
