@@ -32,6 +32,6 @@ Benefits
 
 A student management form is a document used to keep track of important information about students enrolled in a particular educational institution. It typically includes fields for the student's roll number, full name, address, enrollment day, and date of birth. The roll number is a unique identifier assigned to each student that allows them to be easily distinguished from others in the system. The address field is used to record the student's current address, the enrollment day field is important for tracking the student's progress, and the date of birth field is used for verifying the student's age. These fields are essential for maintaining accurate records and ensuring that students receive the best possible educational experience.
 
- Screenshots
+ Screenshots 
 
 
